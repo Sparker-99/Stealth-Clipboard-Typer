@@ -14,3 +14,7 @@
             SendEvent("{Enter}")
     }
 }
+
+!+r::Reload
+
+!+e::ExitApp
